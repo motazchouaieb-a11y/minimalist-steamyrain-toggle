@@ -1,17 +1,26 @@
-# Minimalist SteamyRain Toggle Launcher
+# SteamyRain Launcher - Minimalist Toggle Mod
 
-A heavily optimized and modified layout of the **SteamyRain** Rainmeter skin framework. It anchors a single, floating Steam button to the center top of your wallpaper, using a clean left-click macro to toggle a vertical game grid layout in and out of view.
+This is a **modified distribution** and optimized preset of the original **SteamyRain** skin. 
+I do not own this skin framework; all credit for the core engine, design aesthetics, and original coding goes to the brilliant original authors.
 
-## Features
-* **Single-Click Fade Animation:** Re-coded from the original double-click swap to trigger a smooth fade toggle instantly via `!ToggleFadeGroup`.
-* **Native Steam Right-Click:** Right-clicking the logo still directly launches your local Steam desktop client.
+### Credits
+* **Original Skin Framework & Engine:** Designed by **warodev** / **Nookz** ([Original SteamyRain Repository](https://github.com))
 
-## Credits & Appreciation
-* Original Skin Framework engine designed by **warodev** / **Nookz** ([Original WaroDev SteamyRain GitHub Repository](https://github.com/WaroDev/SteamyRain)).
+---
 
-* Modified and compiled by me for a clean, cinematic desktop workspace.
+### What This Mod Changes:
+* **Single-Click Fade:** Re-coded the original double-click layout swap to trigger a smooth fade instantly via `!ToggleFadeGroup`.
+* **Cleaned Workspace:** Configured to anchor a single Steam button to the center top of your wallpaper out of the box.
 
-## Layout Demonstration
+### Quick Installation (No original skin required)
+To prevent installation errors, this repository contains all the necessary modified files compiled together. You do not need to install the original skin first.
+
+1. Ensure you have [Rainmeter](https://rainmeter.net) installed.
+2. Download this repository as a ZIP file (or get the `.rmskin` from Releases).
+3. Extract the folder into your Rainmeter skins directory:  
+   `C:\Users\<YourUsername>\Documents\Rainmeter\Skins\`
+4. Open Rainmeter, click **Refresh all**, navigate to `SteamyRain-MinimalistToggle`, and load the skin.
+
 
 | Hidden State (Icon Only) | Expanded State (Game Cards) |
 | :---: | :---: |
