@@ -7,7 +7,8 @@ A heavily optimized and modified layout of the **SteamyRain** Rainmeter skin fra
 * **Native Steam Right-Click:** Right-clicking the logo still directly launches your local Steam desktop client.
 
 ## Credits & Appreciation
-* Original Skin Framework engine designed by **warodev** / **Nookz** ([Original Rainmeter Forums Thread](https://rainmeter.net)).
+* Original Skin Framework engine designed by **warodev** / **Nookz** ([Original WaroDev SteamyRain GitHub Repository](https://github.com/WaroDev/SteamyRain)).
+
 * Modified and compiled by me for a clean, cinematic desktop workspace.
 
 ## Layout Demonstration
