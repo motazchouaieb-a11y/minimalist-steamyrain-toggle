@@ -1,0 +1,61 @@
+[Variables]
+;-------------------------------------------------PATHS
+SteamPath=C:\Program Files (x86)\Steam
+RainMeterEXE=C:\Program Files\Rainmeter\Rainmeter.exe
+GameDirs=C:\Program Files (x86)\Steam
+Locale = german
+;-----------------------------------------------GENERAL
+Mode=1
+Mini=1
+Fade=0
+Offset=0
+Header=1
+Arrows=0
+Search=0
+HalfTiles=1
+Settings=0
+hiddenWindow=0
+FirstGame=-5
+SearchInput=Search by Name or ID
+;------------------------------------------VISIBLETILES
+TilePixels=300
+Half=0
+VisibleTiles=3
+VisibleTilesL=7
+VisibleTilesS=5
+GapBetweenTiles=3
+;---------------------------------------------FADE&SIZE
+fadeMode=ON
+FadeSize=#TilePixels#/2
+FadeSizeL=#TilePixels#/2
+FadeSizeS=30
+UP=1
+DOWN=1
+START=0
+Container=1
+;------------------------------------------SKINPOSITION
+SkinPosX=
+SkinPosY=
+XPLUS=0
+;----------------------------------------------LOGOSIZE
+LogoSize=16
+LogoX=6
+LogoY=2
+;------------------------------------------------DEFAULTCOLORS
+TextBG_DEFAULT=61,68,80
+TextColor_DEFAULT=255,255,255
+Dark1_DEFAULT=23,29,37
+Dark2_DEFAULT=0,0,0
+InputBG_DEFAULT=35,37,42
+CloseBG_DEFAULT=226,42,39
+SettingsHover_DEFAULT=26,159,255
+Opacity_DEFAULT=255
+;------------------------------------------------COLORS
+TextBG=61,68,80
+TextColor=255,255,255
+Dark1=23,29,37
+Dark2=0,0,0
+InputBG=35,37,42
+CloseBG=226,42,39
+SettingsHover=26,159,255
+Opacity=20
